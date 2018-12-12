@@ -1,0 +1,2 @@
+# V1_cortical_magnification_and_OP_anisotropy
+Heterogeneous cortical magnification factor from peripheral retina induces anisotropic V1 orientation preference pattern
